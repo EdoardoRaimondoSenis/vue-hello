@@ -1,0 +1,6 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: coral;
+    font-family: "Playwrite MX", cursive;
+}
