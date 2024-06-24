@@ -6,4 +6,4 @@ createApp({
             massage: "Ciao Mondo!!"
         }
     }
-}).mount("#mytitle")
+}).mount(".cont")
